@@ -1,4 +1,4 @@
----
++++
 # Display name
 title: Leihan Chen
 
@@ -27,10 +27,10 @@ interests = [
   "Chinese transition in Republican Era (New Cultural Movement)"
 ]
 
-# Research interests:
-# - Chinese Classical Poetry
-# - Marxism & Chinese Socialism
-# - Chinese transition in Republican Era (New Cultural Movement)
+interests:
+- Chinese Classical Poetry
+- Marxism & Chinese Socialism
+- Chinese transition in Republican Era (New Cultural Movement)
 
 education:
   courses:
@@ -65,13 +65,8 @@ social:
   link: files/Leihan_Chen_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
 +++
 My surname is 陳 while my given name is 磊涵 which indicates integrity and self-restraint in Chinese.
 Geospatial scientist & Engineer. 
