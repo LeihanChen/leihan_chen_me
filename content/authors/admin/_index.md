@@ -1,6 +1,6 @@
 +++
 # Display name
-title: Leihan Chen
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -18,8 +18,9 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: a Geospatial Scientsit & Engineer with an enthusiasm on poetry and Chinese research.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # List (academic) interests or hobbies
 interests = [
@@ -38,6 +39,12 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 >>>>>>> parent of 8e6e8a1... Update Bio
+=======
+Research interests:
+- Chinese Classical Poetry
+- Marxism & Chinese Socialism
+- Chinese transition in Republican Era (New Cultural Movement)
+>>>>>>> parent of e919a57... Fix Bio
 
 education:
   courses:
@@ -61,7 +68,7 @@ social:
 <<<<<<< HEAD
   link: "mailto:chenleihan@126.com"    # For a direct email link, use "mailto:test@example.org".
 - icon: douban
-  icon_pack: douban-logo.svg
+  icon_pack: douban-log.svg
   link: https://www.douban.com/people/2673255/
 =======
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -80,11 +87,12 @@ social:
 <<<<<<< HEAD
 - icon: cv
   icon_pack: ai
-  link: files/Leihan_Chen_CV.pdf
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
 
+<<<<<<< HEAD
 +++
 My surname is 陳 while my given name is 磊涵 which indicates integrity and self-restraint in Chinese.
 Geospatial scientist & Engineer. 
@@ -114,3 +122,21 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 >>>>>>> parent of 8e6e8a1... Update Bio
+=======
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+# user_groups:
+# - Researchers
+# - Visitors
+---
+
+My surname is 陳 and my given name is 磊涵 which indicates integrity and self-restraint
+Geospatial scientist & Engineer 
+Amateur of Chinese poetry and literature
+Recently addicting into playing Go, learning Chan and Chinese traditional characters.
+Seeking a new career in the filed of Eastern Asia (Chinese) Studies.
+
+Favorite Chinese Pre-modern Poet: Li Shangyin(李商隱), Li Ho(李賀), Jiang Kui(姜虁), Tan Xian(譚獻)
+Favourite Chinese Modern& Contemporary Poet: Yu Dafu(郁達夫), He Qifang(何其芳), Bian Zhilin(卞之琳), Gu Cheng(顧城), Zhang Zhao(張棗), Ma Yan(馬雁)
+Favourite non Chinese Poet: Rainer Maria Rilke, Paul Celan, Arthur Rimbaud, Stéphane Mallarmé
+>>>>>>> parent of e919a57... Fix Bio
