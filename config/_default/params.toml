@@ -97,7 +97,7 @@ address = {street = "300 Interchange Way", city = "Concord", region = "ON", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.789039", longitude = "-79.524824"}
+coordinates = {latitude = "43.7894", longitude = "-79.5248"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
