@@ -6,32 +6,32 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 90
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/Leihan_Chen_CV.pdf"
-  weight = 100
+  weight = 70
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 110
+  weight = 80
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 120
+  weight = 90
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 130
+  weight = 100
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 140
+  weight = 110
 
