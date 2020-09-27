@@ -1,10 +1,10 @@
-+++
+---
 # Display name
 title: Leihan Chen
 
 # Username (this should match the folder name)
-authors:admin
-# - admin
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.teledyneoptech.com/en/home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: A geospatial scientist& Engineer, An amateur of poetry, literature
+bio: A geospatial scientist& Engineer, An amateur of poetry & literature
 
 # List (academic) interests or hobbies
 interests = [
@@ -67,7 +67,7 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
-+++
+---
 My surname is 陳 and my given name is 磊涵 which indicates integrity and self-restraint
 Geospatial scientist & Engineer. 
 Amateur of Chinese poetry and literature.
