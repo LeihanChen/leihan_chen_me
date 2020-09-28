@@ -10,7 +10,7 @@ name = "Leihan Chen"
 superuser = true
 
 # Role/position
-role = “Research Scientist & Engineer”
+role = "Research Scientist of Machine Learning"
 
 # Organizations/Affiliations
 # organizations:
