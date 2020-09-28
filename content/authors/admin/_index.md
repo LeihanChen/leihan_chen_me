@@ -19,7 +19,7 @@ role = "Research Scientist of Machine Learning"
 organizations = [ { name = "Teledyne Optech", url = "https://www.teledyneoptech.com/en/home/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = “A geospatial scientist& Engineer, An amateur of poetry & literature”
+bio = "A geospatial scientist& Engineer, An amateur of poetry & literature"
 
 # List (academic) interests or hobbies
 interests = [
