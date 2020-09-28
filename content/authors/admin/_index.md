@@ -108,12 +108,12 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-My surname is 陳 and my given name is 磊涵 which indicates integrity and self-restraint.
-Geospatial scientist & Engineer. 
-Amateur of Chinese poetry and literature.
-Recently addicting into playing Go, learning Chan and Chinese traditional characters.
-Seeking a new career in the filed of Eastern Asia (Chinese) Studies.
+My surname is 陳 and my given name is 磊涵 which indicates integrity and self-restraint.<br />
+Geospatial scientist & Engineer.<br />
+Amateur of Chinese poetry and literature.<br />
+Recently addicting into playing Go, learning Chan and Chinese traditional characters.<br />
+Seeking a new career in the filed of Eastern Asia (Chinese) Studies.<br />
 
-Favourite Chinese Pre-modern Poet: Li Shangyin(李商隱), Li Ho(李賀), Jiang Kui(姜虁), Tan Xian(譚獻).
-Favourite Chinese Modern& Contemporary Poet: Yu Dafu(郁達夫), He Qifang(何其芳), Bian Zhilin(卞之琳), Gu Cheng(顧城), Zhang Zhao(張棗), Ma Yan(馬雁).
+Favourite Chinese Pre-modern Poet: Li Shangyin(李商隱), Li Ho(李賀), Jiang Kui(姜虁), Tan Xian(譚獻).<br />
+Favourite Chinese Modern& Contemporary Poet: Yu Dafu(郁達夫), He Qifang(何其芳), Bian Zhilin(卞之琳), Gu Cheng(顧城), Zhang Zhao(張棗), Ma Yan(馬雁).<br /> 
 Favourite non Chinese Poet: Rainer Maria Rilke, Paul Celan, Arthur Rimbaud, Stéphane Mallarmé.
