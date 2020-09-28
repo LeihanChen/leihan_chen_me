@@ -91,14 +91,14 @@ interests = [
 ##  link = "mailto:jiayi.liu@uth.tmc.edu".
 
 [[social]]
-  icon = "douban-logo"
-  # icon_pack = "douban-logo.svg"
-  link = "https://www.douban.com/people/2673255/"
-
-[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/LeihanChen"
+
+[[social]]
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/leihan_chen/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
