@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Scientist"
+  company = "Teledyne Optech"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Toronto"
+  date_start = "2019-03-11"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """R&D in machine learning algorithm for large-scale liar data processing."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "INRIA, Sophia Antipolis"
+  company_url = "https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee"
+  location = "Sophia Antipolis"
+  date_start = "2017-07-01"
+  date_end = "2017-11-30"
+  description = """Indoor mapping from floor plan with consumer-graded camera."""
 
+[[experience]]
+  title = "Research Assistant"
+  company = "Wuhan University"
+  company_url = "https://www.whu.edu.cn"
+  location = "Wuhan"
+  date_start = "2014-07-01"
+  date_end = "2015-02-28"
+  description = """School of Remote Sensing and Information Engineering."""
 +++
