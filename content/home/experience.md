@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Scientist"
   company = "Teledyne Optech"
-  company_url = ""
+  company_url = "https://www.teledyneoptech.com/en/home/"
   location = "Toronto"
   date_start = "2019-03-11"
   date_end = ""
