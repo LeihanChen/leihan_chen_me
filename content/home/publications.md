@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "select"
+    tag = ""
     category = ""
     publication_type = ""
     auth = ""
@@ -68,5 +68,10 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Browse all publications [here]({{< ref "/publication/_index.md" >}}).
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+
+#{{% alert note %}}
+#Browse all publications [here]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
