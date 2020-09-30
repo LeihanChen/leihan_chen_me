@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SIMULATION-BASED DATA AUGMENTATION USING PHYSICAL PRIORS FOR NOISE FILTERING DEEP NEURAL NETWORK"
-authors: ["Maryam Jameela", "Leihan Chen", Andrew Sit", "Jacon Yoo", "Chris Verheggen", "Gunho Sohn"]
+authors: ["Maryam Jameela", "***Leihan Chen***", Andrew Sit", "Jacon Yoo", "Chris Verheggen", "Gunho Sohn"]
 date: 2020-08-12
 doi: "10.5194/isprs-archives-XLIII-B2-2020-247-2020"
 

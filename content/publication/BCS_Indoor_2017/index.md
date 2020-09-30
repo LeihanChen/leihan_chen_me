@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SEMANTIC SEGMENTATION OF INDOOR POINT CLOUDS USING CONVOLUTIONAL NEURAL NETWORK"
-authors: ["Kivanc Babacon", "Leihan Chen", "Gunho Sohn"]
+authors: ["Kivanc Babacon", "***Leihan Chen***", "Gunho Sohn"]
 date: 2017-11-13
 doi: "10.5194/isprs-annals-IV-4-W4-101-2017"
 
@@ -33,7 +33,7 @@ featured: false
 links:
 - name: Published Version
   url: "https://doi.org/10.5194/isprs-annals-IV-4-W4-101-2017"
-- name: PDF
+- name: Full Text
   url: "https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W4/101/2017/isprs-annals-IV-4-W4-101-2017.pdf"
 
 url_pdf:

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multi-range conditional random field for classifying railway electrification system objects using mobile laser scanning data"
-authors: ["Jaewook Jung", "Leihan Chen", "Gunho Sohn", "Chao Luo", "Jong-Un Won"]
+authors: ["Jaewook Jung", "***Leihan Chen***", "Gunho Sohn", "Chao Luo", "Jong-Un Won"]
 date: 2016-12-10
 doi: "10.3390/rs8121008"
 
