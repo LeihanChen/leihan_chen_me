@@ -5,7 +5,7 @@ Leihan Chen personal website.
 ## Credits  
 This website is powered by the [Wowchemy](https://wowchemy.com) for [Hugo](https://themes.gohugo.io) and deployed by [Netlify](https://www.netlify.com).
 
-Also inspired by [Jiayi Liu](https://github.com/jiayiliujiayi/jiayiliu.me), [Benjamin Born](https://github.com/BenjaminBorn/academic-kickstart) and [LightJason](https://github.com/LightJason/lightjason.github.io/tree/master].
+Also inspired by [Jiayi Liu](https://github.com/jiayiliujiayi/jiayiliu.me), [Benjamin Born](https://github.com/BenjaminBorn/academic-kickstart) and [LightJason](https://github.com/LightJason/lightjason.github.io/tree/master).
 
 ## Lisence
 
