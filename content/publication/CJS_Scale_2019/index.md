@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multi-Scale Hierarchical CRF for Railway Electrification Asset Classification From Mobile Laser Scanning Data"
-authors: ["***Leihan Chen***", "Jaewook Jung", "Gunho Sohn"]
+authors: ["Leihan Chen", "Jaewook Jung", "Gunho Sohn"]
 date: 2019-06-10
 doi: "10.1109/JSTARS.2019.2918272"
 
