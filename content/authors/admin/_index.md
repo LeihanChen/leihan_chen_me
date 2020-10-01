@@ -108,7 +108,7 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-My surname is 陳 while given name is 磊涵 which indicates integrity and self-restraint. I have a pen name Chu You (楚余).<br />
+My surname is 陳 while given name is 磊涵 which indicates integrity and self-restraint. I have a pen name Chu You (楚餘).<br />
 Geospatial scientist & Engineer.<br />
 Amateur of Chinese poetry and literature.<br />
 Recently addicting into playing Go, learning Chan and Chinese traditional characters.<br />
