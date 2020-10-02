@@ -1,7 +1,7 @@
 +++
 # Display name
 # title: Leihan Chen
-title = "Leihan Chen"
+title = "Leihan Chen(陳磊涵)"
 # Username (this should match the folder name)
 # authors:
 # - admin
@@ -108,10 +108,11 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-My surname is 陳 while given name is 磊涵 which indicates integrity and self-restraint. I have a pen name Chu You (楚餘).<br />
+My given name is 磊涵 which indicates integrity and self-restraint.<br />
+I have a pen name Chu You (楚餘).<br />
 Geospatial scientist & Engineer.<br />
 Amateur of Chinese poetry and literature.<br />
-Recently addicting into playing Go, learning Chan and Chinese traditional characters.<br />
+Recently addicting into playing Go, learning Chan and writing Chinese traditional characters.<br />
 Seeking a new career in the filed of Eastern Asia (Chinese) Studies.<br />
 
 Favourite Chinese Pre-modern Poet: Li Shangyin(李商隱), Li Ho(李賀), Jiang Kui(姜虁), Tan Xian(譚獻).<br />
