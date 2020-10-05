@@ -209,25 +209,25 @@ plugins_js  = []
 ############################
 ## Comments
 ############################
-# [comments]
+[comments]
   # Comment provider:
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  # engine = 1
+  engine = 1
 
   # Which page types are commentable?
-  # commentable = {page = true, post = true, docs = true, project = true, publication = false, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = false, talk = true}
 
   # Configuration of Disqus.
-  # [comments.disqus]
-    # shortname = ""  # Paste the shortname from your Disqus dashboard.
-    # show_count = true  # Show comment count in page header? (true/false)
+  [comments.disqus]
+    shortname = "leihan-chen"  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
-  # [comments.commento]
+  [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-    # url = ""
+    url = ""
 
 ############################
 ## Search
