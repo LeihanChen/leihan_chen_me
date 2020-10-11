@@ -32,7 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-This is not a poem reflected to the patriarchal example in the book *五燈會元*. The sentiment of this poem, however, is strongly mixed with my persoanl life experience and feeling, which totally alleviates the orginal spirit in the example. The poem is written in 17th Decemebr 2018. After two years, when I backtracked this naive poem, that strong sentiment came back, although in an unavoidable recession. 
+This is not a poem reflected to the patriarchal example in the book *五燈會元*. The sentiment of this poem, however, is strongly mixed with my persoanl life experience and feeling, which totally alleviates the orginal spirit in the example. The poem is written in 17th Decemebr 2018. After two years, when I recalled this naive poem, that strong sentiment came back, although in an unavoidable recession. 
 
 **你和我**                                                  
 黑貓去山頂探望佛祖的弟子。  
