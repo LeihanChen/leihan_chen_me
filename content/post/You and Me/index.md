@@ -45,10 +45,10 @@ This is not a poem reflected to the patriarchal example in the book *五燈會�
 
 **You and Me**  
 The black cat went to the top of the mountain,  
-visiting the disciple of Buddha.  
-Every leaf outside the room seeks for the sunshine,
-The cosmetic box on the desk inside the room also keeps silence,
-All of them achieve their respective goal.
-Zhaozhou redresses the shoes that is put on the head,
-In the middle of river,
-A maiden has crossed the stone bridge.
+visiting the disciple of Buddha.    
+Every leaf outside the room seeks for the sunshine,  
+The cosmetic box on the desk inside the room also keeps silence,  
+All of them achieve their respective goal.  
+Zhaozhou redresses the shoes that is put on the head,  
+In the middle of river,  
+A maiden has crossed the stone bridge.  
