@@ -31,7 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Paul Celan is one of my favourite German/Romanian poets. I was firstly attracted by his poems **Der Sand aus den Urnen** from his second poetry anthology Mohn und Gedächtnis (Poppy and Memory, 1952).
+Paul Celan is one of my favourite German poets. I was firstly attracted by his poem **Der Sand aus den Urnen** from his second poetry anthology ***Mohn und Gedächtnis*** (Poppy and Memory, 1952).
 
 **Der Sand aus den Urnen**                                                  
 Schimmelgrün ist das Haus des Vergessens.                                
